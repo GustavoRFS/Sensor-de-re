@@ -11,7 +11,7 @@ Essa etapa do trabalho exigia o uso estruturas básicas como estruturas condicio
 #
 Foi utilizado um módulo Sensor de Distância Ultrassônico HC-SR04, um Display LCD 16x2 e um Buzzer.
 
-![Circuito]()
+![Circuito](https://raw.githubusercontent.com/GustavoRFS/Sensor-de-re/master/Circuito.png)
 #
 
 ##### Funcionamento:
