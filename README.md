@@ -4,7 +4,7 @@ Segunda etapa do trabalho prático em grupo com arduino da disciplina Introduç�
 
 Grupo: Caio Rocha, Gustavo Ribeiro, João Paulo de Paiva Lima e Pedro Paulo
 
-*Clique [aqui]() para ver a Segunda Etapa*
+*Clique [aqui](https://github.com/GustavoRFS/Banco-de-Dados-com-Sensor-Biometrico) para ver a Segunda Etapa*
 
 Essa etapa do trabalho exigia o uso estruturas básicas como estruturas condicionais, estruturas de repetição e vetores.
 
